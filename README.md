@@ -2,7 +2,7 @@
 <h3 align="center">Deep Learning enthusiast from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokkulnath" alt="gokkulnath" /> </p>
 
-- 🔭 I’m currently working on **Adversarial and Privacy Preserving Machine learning**
+- 🔭 I’m currently working on **Adversarial Machine learning**
 - 💬 Ask me about **Pytorch, Tensorflow, Computer Vision - (Object detection, GANs)**
 - 📫 How to reach me **gokkulnathts@gmail.com**
 
