@@ -5,22 +5,24 @@
 - 🔭 I’m currently working on **Adversarial Machine learning**
 - 💬 Ask me about **Pytorch, Tensorflow, Computer Vision - (Object detection, GANs)**
 - 📫 How to reach me **gokkulnathts@gmail.com**
+- I am a Certified Tensorflow Developer
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/29831448" alt="Tensorflow Certified Developer"/>
+
 
 <p align="left">
   <!-- Linux, Python, Flask, OpenCV, Pytorch, Tensorflow, Docker -->
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+  <img src="https://1000logos.net/wp-content/uploads/2017/06/Ubuntu_logo_PNG1.png" alt="linux" width="120" height="80"/>
+  <img src="https://1000logos.net/wp-content/uploads/2020/08/Python-Emblem.jpg" alt="python" width="80" height="80"/>
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="80" height="80"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="80" height="80"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="80" height="80"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="80" height="80"/>
+  <img src="https://1000logos.net/wp-content/uploads/2017/07/Logo-Docker.jpg" alt="docker" width="80" height="80"/> 
 </p>
   
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokkulnath&layout=compact&hide=html" alt="gokkulnath" />
 </p>
-
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gokkulnath&show_icons=true" alt="gokkulnath" /></p>
