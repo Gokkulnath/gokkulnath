@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokkulnath" alt="gokkulnath" /> </p>
 
 - 🔭 I’m currently working on **Adversarial Machine learning**
-- 💬 Ask me about **Pytorch, Tensorflow, Computer Vision - (Object detection, GANs), Model Deployment (ONNXRuntime)**
+- 💬 Ask me about **Pytorch, Tensorflow, Computer Vision Tasks- (Object detection, GANs), Model Deployment (ONNXRuntime)**
 - 📫 How to reach me **gokkulnathts@gmail.com**
 - I am a Certified Tensorflow Developer
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/56230955" alt="Tensorflow Certified Developer"/>
